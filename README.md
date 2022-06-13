@@ -1,4 +1,4 @@
-# springboot-kafka-course
+# Free Springboot + Apache Kafka course
 
 Free Spring Boot + Apache Kafka Course on YouTube - https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU
 
