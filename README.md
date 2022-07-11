@@ -1,6 +1,6 @@
-# Free Springboot + Apache Kafka course
+# Spring Boot + Apache Kafka - The Quickstart Practical Guide- Udemy course
 
-Free Spring Boot + Apache Kafka Course on YouTube - https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU
+Course link: https://www.udemy.com/course/spring-boot-and-apache-kafka/?referralCode=545DF9E4BA28DAAA2832
 
 # Blog posts on JavaGuides
 Spring Boot Kafka Producer Consumer Example Tutorial - https://www.javaguides.net/2022/05/spring-boot-kafka-producer-consumer-example-tutorial.html
