@@ -11,6 +11,12 @@
     <packaging>jar</packaging>
     <artifactId>kafka-producer-wikimedia</artifactId>
     <dependencies>
+             <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+         
+            <version>1.18.30</version> <!-- Added -->
+        </dependency>
         <!-- https://mvnrepository.com/artifact/com.launchdarkly/okhttp-eventsource -->
         <dependency>
             <groupId>com.launchdarkly</groupId>
